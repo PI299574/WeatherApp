@@ -1,0 +1,39 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+"dependencies": {
+  "bootstrap": "^3.3.0",
+  "flux": "^2.0.1",
+  "jwt-decode": "^1.1.0",
+  "react": "^0.13",
+  "react-mixin": "^1.1.0",
+  "react-router": "^0.13.2",
+  "reqwest": "^1.1.5",
+  "when": "^3.7.2"
+},
+"devDependencies": {
+  "babelify": "^6.1.0",
+  "browser-sync": "^2.1.6",
+  "browserify": "^8.0.3",
+  "clean-css": "^3.1.9",
+  "eslint": "^0.14.1",
+  "nodemon": "^1.5.0",
+  "rework": "^1.0.1",
+  "rework-npm": "^1.0.0",
+  "rework-npm-cli": "^0.1.1",
+  "serve": "^1.4.0",
+  "uglify-js": "^2.4.15",
+  "watchify": "^2.1.1",
+    "gulp":"*",
+    "reactify":"*",
+    "vinyl-source-stream":"*",
+    "object-assign":"*"
+  }
+}
